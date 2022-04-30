@@ -2,4 +2,4 @@
 practicing pandas with various datasets
 
 datasets:
-1. [https://www.kaggle.com/datasets/shivamb/netflix-shows](netflix_titles.csv)
+1. [netflix_titles.csv](https://www.kaggle.com/datasets/shivamb/netflix-shows)
