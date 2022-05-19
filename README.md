@@ -145,5 +145,5 @@ Cumulative statistics can be performed on an entire column or columns and cumula
 - [] Reading and Writing CSVs
 
 
-datasets:
+Practice datasets:
 1. [netflix_titles.csv](https://www.kaggle.com/datasets/shivamb/netflix-shows)
